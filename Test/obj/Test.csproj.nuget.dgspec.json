@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DastanAlybaev\\source\\repos\\Test\\Test\\Test.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\o\\test-it-academy\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DastanAlybaev\\source\\repos\\Test\\Test\\Test.csproj": {
+    "C:\\Users\\Acer\\Desktop\\o\\test-it-academy\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DastanAlybaev\\source\\repos\\Test\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\o\\test-it-academy\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\DastanAlybaev\\source\\repos\\Test\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\DastanAlybaev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DastanAlybaev\\source\\repos\\Test\\Test\\obj\\",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\o\\test-it-academy\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\o\\test-it-academy\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DastanAlybaev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
